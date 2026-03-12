@@ -11,7 +11,7 @@ I design and build clean, fast, and functional interfaces.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### My design and workflow tools are
-· Cursor · Antigravity · Figma · Affinity Designer · Warp · 
+· Cursor · Figma · Affinity Designer · Warp · 
 
 I’m currently working as a freelancer on web and design projects.
 
